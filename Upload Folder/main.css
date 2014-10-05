@@ -1,0 +1,42 @@
+.nav {
+background-image: url('http://www.lpl.arizona.edu/~lemmon/rac/black.jpg');
+height: 45px;
+}
+.nav  li{
+	display:inline-block;
+	padding: 5px;
+}
+
+.body {
+background-image: url('http://www.hdwallsweb.com/wp-content/uploads/2013/05/Best-top-desktop-google-wallpapers-hd-google-wallpaper-picture-image-3.jpg');
+height: 650px;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+.body h1{
+margin-left:370px;
+text-transform: uppercase;
+color: #fff;
+}
+
+.body p{
+font-size: 23px;
+font-color: #5f5f5f;
+margin-left: 464px;
+}
+
+.content  {
+margin-top: 0px;
+padding-top: 12px;
+}
+.content p{
+margin-left: 0px;
+font-size: 15px;
+}
+
+
+
+
+
